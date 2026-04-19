@@ -2,9 +2,7 @@
 
 # `$ tz.sh`
 
-**solo founder · privacy maxing · mail pilled**
-
-_building [Sipher](https://sipher.io) — a privacy-first software ecosystem — under Trisun_
+**fluent in terminal · broken in English · allergic to meetings**
 
 </div>
 
@@ -13,22 +11,13 @@ _building [Sipher](https://sipher.io) — a privacy-first software ecosystem —
 ### `whoami`
 
 ```sh
-tz@trisun ~ $ cat about.md
-→ solo founder, bootstrapping into existence
-→ previously: pid 1.  currently: still pid 1.
+tz@localhost ~ $ cat about.md
+→ solo dev · chronic yak shaver · pid 1 of my own life
+→ writes code at 3am, regrets it at 4am, commits it at 5am
+→ debugs in prod, apologises in post
 → privacy-first everything, including my coffee order
-→ fluent in terminal, broken in English, zero Kubernetes
+→ zero Kubernetes, zero regrets
 ```
-
----
-
-### `ls ~/sipher/`
-
-| project | what it is | status |
-| --- | --- | --- |
-| **SipherMail** | privacy-first, AI-powered email | `shipping` |
-| **SipherCode** | AI-powered code editor | `queued` |
-| _…and a few more cooking_ | under Trisun | `wip` |
 
 ---
 
@@ -37,9 +26,10 @@ tz@trisun ~ $ cat about.md
 ```
 frontend ── Next.js · React Native · Expo · Turborepo
 backend  ── PostgreSQL · Stalwart · Node
-infra    ── bare metal · self-hosted · zero serverless, zero regrets
-ai       ── OpenRouter (the bus) · local Ollama (the escape hatch)
+infra    ── bare metal · self-hosted · zero serverless
+ai       ── OpenRouter · local Ollama
 editor   ── Claude Code
+shell    ── zsh, obviously
 ```
 
 ---
@@ -49,14 +39,6 @@ editor   ── Claude Code
 ```
 03:47  up 247 days    load avg: too much, too much, too much
 ```
-
----
-
-### `--help`
-
-- web &nbsp;·&nbsp; [sipher.io](https://sipher.io)
-- mail &nbsp;·&nbsp; `mail [at] tz [dot] sh`
-- repos &nbsp;·&nbsp; pinned below ↓
 
 <br/>
 
