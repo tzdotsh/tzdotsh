@@ -21,24 +21,22 @@ tz@localhost ~ $ cat about.md
 
 ---
 
-### `cat stack.txt`
+### `ps aux | grep tz`
 
 ```
-frontend ── Next.js · React Native · Expo · Turborepo
-backend  ── PostgreSQL · Stalwart · Node
-infra    ── bare metal · self-hosted · zero serverless
-ai       ── OpenRouter · local Ollama
-editor   ── Claude Code
-shell    ── zsh, obviously
+USER  PID  COMMAND
+tz    1    designing the thing
+tz    2    coding the thing
+tz    3    shipping the thing
+tz    4    breaking the thing
+tz    5    fixing the thing
+tz    6    supporting the thing
+tz    7    marketing the thing (badly)
+tz    8    crying about the thing
+tz    9    pretending to sleep
 ```
 
----
-
-### `uptime`
-
-```
-03:47  up 247 days    load avg: too much, too much, too much
-```
+> i design it. i build it. i break it. i fix it. i ship it. the org chart is a selfie.
 
 <br/>
 
