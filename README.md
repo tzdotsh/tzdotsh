@@ -2,7 +2,7 @@
 
 Founder & engineer building privacy-first products.
 
-**Currently:** SipherMail — encrypted email with self-hosted AI. Web, iOS, Android.
+**Currently:** SipherMail - encrypted email with self-hosted AI. Web, iOS, Android.
 
 ### Stack
 
