@@ -1,14 +1,14 @@
 # Tz
 
-Founder & engineer building privacy-first products under the **Sipher** brand.
+Founder & engineer building privacy-first products.
 
-**Currently:** [SipherMail](https://siphermail.com) — encrypted email with self-hosted AI. Web, iOS, Android.
+**Currently:** SipherMail — encrypted email with self-hosted AI. Web, iOS, Android.
 
-### What I work with
+### Stack
 
-- **Backend:** Node.js, Next.js, PostgreSQL, Redis, Stalwart
+- **Backend:** Node.js, Next.js, PostgreSQL, Redis
 - **Mobile:** React Native (Expo)
-- **Infra:** bare-metal (OVH, Hetzner), WireGuard, self-hosted LLMs (Ollama)
+- **Infra:** bare metal, WireGuard, self-hosted LLMs
 
 ### Principles
 
